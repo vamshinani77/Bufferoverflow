@@ -1,5 +1,5 @@
 # Bufferoverflow
-Steps to conduct a Buffer Overflow attacl
+Steps to conduct a Buffer Overflow attack
   1) Spiking
   2) Fuzzing
   3) Finding the Offset
